@@ -1,6 +1,8 @@
-package com.udacity.stockhawk;
+package com.udacity.stockhawk.timber;
 
 import android.app.Application;
+
+import com.udacity.stockhawk.BuildConfig;
 
 import timber.log.Timber;
 

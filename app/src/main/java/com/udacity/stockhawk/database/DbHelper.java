@@ -1,16 +1,16 @@
-package com.udacity.stockhawk.data;
+package com.udacity.stockhawk.database;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.udacity.stockhawk.data.Contract.Quote;
+import com.udacity.stockhawk.database.Contract.Quote;
 
 
 class DbHelper extends SQLiteOpenHelper {
 
 
-    static final String NAME = "StockHawk.db";
+    private static final String NAME = "StockHawk.db";
     private static final int VERSION = 1;
 
 

@@ -9,8 +9,8 @@ import android.content.Intent;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 
-import com.udacity.stockhawk.data.Contract;
-import com.udacity.stockhawk.data.PrefUtils;
+import com.udacity.stockhawk.database.Contract;
+import com.udacity.stockhawk.database.PrefUtils;
 
 import java.io.IOException;
 import java.util.ArrayList;

@@ -1,8 +1,8 @@
 <resources>
 
     <style name="AppTheme" parent="Theme.AppCompat">
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorPrimary">@color/material_green_800</item>
+        <item name="colorPrimaryDark">@color/material_green_900</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
