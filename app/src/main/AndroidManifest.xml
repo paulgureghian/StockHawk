@@ -37,7 +37,10 @@
             android:exported="true"
             android:permission="android.permission.BIND_JOB_SERVICE" />
 
-        <activity android:name=".activities.StockChart"></activity>
+        <activity android:name=".activities.StockChart">
+
+        </activity>
+
     </application>
 
 </manifest>
